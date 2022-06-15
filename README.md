@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dougmpRX
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/douglas-massote-pestana/" target="_blank">LinkedIn</a>
 
