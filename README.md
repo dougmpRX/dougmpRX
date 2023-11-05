@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dougmpRX
+- 👋 Hi, I’m Douglas!
 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-end development
+- 👀 I’m a software engineer interested in Web and Game Development;
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/douglas-massote-pestana/" target="_blank">LinkedIn</a>
 
